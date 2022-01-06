@@ -18,13 +18,13 @@ Here are some ideas to get you started:
 
 
 Hi, I'm from Beijing University of Posts and Telecommunications.
-
-Recently learning <img src="https://www.rust-lang.org/static/images/ferris.gif" height="32px"> ,rcore,mit6.824,
+[![wakatime](https://wakatime.com/badge/user/39b015d1-cf37-4423-9cf5-9b649fcccff1.svg)](https://wakatime.com/@39b015d1-cf37-4423-9cf5-9b649fcccff1)
+Recently learning Rust ,rcore,mit6.824,
 Interest in Infrastructure.
 
 ## Skills
 
-🦀 Lang: Rust Python C++ Golang ...
+🦀 Lang: Python C++ Golang Rust...
 
 🔨 Tools: VS Code, Linux, Docker ...
 
